@@ -1,0 +1,7 @@
+azure-identity
+requests
+pystac-client
+Pillow
+ipython
+notebook
+ipykernel
